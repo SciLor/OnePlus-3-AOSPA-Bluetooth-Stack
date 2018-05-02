@@ -19,6 +19,6 @@ I had problems with my BMW E91/E92 CIC Professional Navigation system and Blueto
 [Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
 [Latest stable Magisk](http://www.tiny.cc/latestmagisk)
 
-##Donation
+## Donation
 Like my work? Spread the word!
 You want to support me?  [Check this out!](http://www.scilor.com/donate.html)
