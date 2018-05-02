@@ -3,5 +3,5 @@ name=OnePlus 3 AOSPA Bluetooth Stack for LOS 14.1 (Nougat)
 version=v1.0.0
 versionCode=1
 author=SciLor
-description=Use AOSPA Bluetooth Stack in LOS 14.1 (Nougat) on the OnePlus 3(T)
+description=Use AOSPA Bluetooth Stack on LOS 14.1 (Nougat) on the OnePlus 3(T)
 minMagisk=1500
