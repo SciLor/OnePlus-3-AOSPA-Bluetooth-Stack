@@ -2,7 +2,7 @@
 ## Description
 This module implements the idea of [shadeau on xda-developers](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/los-bluetooth-fix-existing-roms-6-20-t3625247) to replace the Lineage OS Nougat Bluetooth Stack of the OnePlus 3(T) with the one shipped with [Paranoid Android 7.3.1 - AOSPA](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/paranoid-android-7-0-2-aospa-oneplus-3t-t3615015).
 
-I had problems with my BMW E91/E92 CIC Professional Navigation system and Bluetooth on LOS Nougat (while MM was working fine): Headset connection is connected and disconnected after some seconds. Then I have to connect it manually via the cars Bluetooth menu. This should fix it.
+I had problems with my BMW E91/E92 CIC Professional Navigation system and Bluetooth on LOS Nougat (while MM was working fine): Headset connection is connected and disconnected after some seconds. Then I have to connect it manually via the cars Bluetooth. This won't fix the problem... 
 
 ## Changelog
 ### v1.0.0 - (2018-05-02)
